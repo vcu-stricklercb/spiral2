@@ -1,6 +1,6 @@
 def spiralize(size, n=1):
     """ Your code goes somewhere in here"""
-    n = 6
+    n = None
     tally = 0
     increment = 2
     total = 0
